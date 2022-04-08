@@ -1,4 +1,4 @@
-# GEOKhoj 1.0
+# GEOKhoj v1
 
 ## Table of Contents
 
@@ -55,12 +55,8 @@ Each column corresponds to the following fields:
 
 ### Motivation
 
-With clean and curated metadata for public omics data, people have been able to study drug repurposing, suggest novel drugs for many diseases and explain mechanisms for many approved drugs. In the past, this has been done at a small scale by manually curating public data. But if we want to curate the millions of datasets available publicly we need classifiers trained on high-quality data to curate datasets at scale. GEOKhoj 1.0 has a large sample of high-quality annotations for public data from GEO with which we can train said classifiers for curation at scale. With this curated dataset we can enable researchers to generate gene signatures at scale which can be used to repurpose a drug, understand mechanism of a drug, understand a disease and explore normal biological mechanisms. 
+With clean and curated metadata for public omics data, people have been able to study drug repurposing, suggest novel drugs for many diseases and explain mechanisms for many approved drugs. In the past, this has been done at a small scale by manually curating public data. But if we want to curate the millions of datasets available publicly we need classifiers trained on high-quality data to curate datasets at scale. GEOKhoj v1 has a large sample of high-quality annotations for public data from GEO with which we can train said classifiers for curation at scale. With this curated dataset we can enable researchers to generate gene signatures at scale which can be used to repurpose a drug, understand mechanism of a drug, understand a disease and explore normal biological mechanisms. 
 
 ### Licensing Information
 
 https://creativecommons.org/licenses/by-nc/4.0/
-
-### References
-
-Wang, Z., Monteiro, C., Jagodnik, K. et al. Extraction and analysis of signatures from the Gene Expression Omnibus by the crowd. Nat Commun 7, 12846 (2016). https://doi.org/10.1038/ncomms12846
